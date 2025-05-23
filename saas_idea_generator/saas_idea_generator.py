@@ -16,7 +16,7 @@ class SaasIdeaGenerator:
     
     def __init__(self):
         # Configure the Gemini API
-        self.api_key = "AIzaSyCSsKqcpqyepPqJoA7Kqq21WHPZWQRi51A"
+        self.api_key = "your_api_key"
         if not self.api_key:
             raise ValueError("GEMINI_API_KEY not found in environment variables. Please set it in the .env file.")
         
