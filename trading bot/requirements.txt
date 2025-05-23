@@ -1,0 +1,6 @@
+agno
+fastapi
+uvicorn
+yfinance
+duckduckgo-search
+python-binance
